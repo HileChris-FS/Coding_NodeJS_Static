@@ -1,0 +1,14 @@
+{
+  "name": "coding_nodejs_static",
+  "version": "1.0.0",
+  "description": "Static Web Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Christopher Hile",
+  "license": "MIT"
+}
